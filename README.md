@@ -1,1 +1,2 @@
-Card Game
+Simple Card Game with JSwing 
+Develop in progres
